@@ -4,6 +4,8 @@
  */
 package mx.itson.pokemon.entities;
 
+////eaeaeaeaeaeaeaeaea
+
 import java.util.Date;
 
 /**
