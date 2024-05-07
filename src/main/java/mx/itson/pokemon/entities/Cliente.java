@@ -5,6 +5,7 @@
 package mx.itson.pokemon.entities;
 
 ////eaeaeaeaeaeaeaeaea
+//// Subido al octogato
 
 import java.util.Date;
 
